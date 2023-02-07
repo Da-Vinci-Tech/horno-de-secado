@@ -11,9 +11,13 @@ la siguiente grafica es del serial plotter de arduino, en la cua la linea roja e
 
 ![photo5010494498484103561](https://user-images.githubusercontent.com/124691721/217306627-352c0367-5c7a-40dd-967e-6f038800b1c9.jpg)
 
-la siguiente grafica es la que vemos en la plataforma **ALL TIME IOT** esta no nos permite imprimir dos variables en la misma grafica, sin embargo corroboramos como el perfil de temperatura corresponde  a los tiempos establecidos
+la siguiente grafica es la que vemos en la plataforma **ALL TIME IOT** esta no nos permite imprimir dos variables en la misma grafica, sin embargo corroboramos como el perfil de temperatura corresponde  a los tiempos establecidos.
 
 ![grafica de alltimeiot](https://user-images.githubusercontent.com/124691721/217309493-511763d6-ffb5-434b-85a2-e100d97718ec.png)
+
+Esta fue la configuración de modulos que decidi utilizar eventualmente.
+
+![configuracion usada](https://user-images.githubusercontent.com/124691721/217323836-5febdaa4-9bcc-4be2-a62e-be3587d1ed98.png)
 
 ¡instalamos todo dentro del horno!
 
